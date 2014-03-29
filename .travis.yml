@@ -1,1 +1,1 @@
-script: ./build.sh
+language: cpp
